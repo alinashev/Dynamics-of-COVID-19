@@ -16,28 +16,28 @@ Regions considered:
 * Region of the Americas
 * African Region
 
-Amount of infected persons for all time in European Region
+Amount of infected persons for all time in European Region:
 ![Europ](https://i.imgur.com/AWnRnSU.png)
 
 
-Amount of infected persons for all time in Western Pacific Region
+Amount of infected persons for all time in Western Pacific Region:
 ![WP](https://i.imgur.com/dwYXHId.png)
 
 
-Amount of infected persons for all time in China
+Amount of infected persons for all time in China:
 ![China](https://i.imgur.com/w2f4wpc.png)
 
 
-Amount of infected persons for all time in South-East Asia Region
+Amount of infected persons for all time in South-East Asia Region:
 ![S-E Asia](https://i.imgur.com/KVtXTpN.png)
 
-Amount of infected persons for all time in Eastern Mediterranean Region
+Amount of infected persons for all time in Eastern Mediterranean Region:
 ![E-M](https://i.imgur.com/4ZD4VcW.png)
 
-Amount of infected persons for all time in Region of the Americas
+Amount of infected persons for all time in Region of the Americas:
 ![American](https://i.imgur.com/pdqUP0v.png)
 
-Amount of infected persons for all time in African Region
+Amount of infected persons for all time in African Region:
 ![African](https://i.imgur.com/bjBJvVK.png)
 
 
