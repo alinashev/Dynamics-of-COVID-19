@@ -45,7 +45,7 @@ Comparison dynamics of COVID-19 among regions:
 
 ![Region(Confirmed)](https://i.imgur.com/8l9QO2y.png)
 
-![Region(Dead)](https://i.imgur.com/8Ntf066.png)
+![Region(Dead)](https://i.imgur.com/b30cqMO.png)
 
 
 *today - 20.03.2020
